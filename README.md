@@ -10,8 +10,8 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 - :man: ENRIQUE
-- :woman:JJJ
-- :woman: 
+- :woman:VALERIA
+- :woman: ANA
 
 
 Proyecto (código): 
