@@ -17,9 +17,9 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 
@@ -31,17 +31,17 @@ Tipo/Género:
 ![](img-nobody.png)
 
 Nombre: 
-
+Sally 
 
 ### Historia
-
+ 
 
 ### Contexto
 
 
 ### Conflicto 
 
-
+  Vive en un sistema capitalista que la consume. Es activista porque quiere luchar contra esa insatisfacción aunque aún no es suficiente.
 
 ### Productos
 
