@@ -50,12 +50,6 @@ Vive en un sistema capitalista que la consume. Es activista porque quiere luchar
 
 - Personaje: (img personaje y enlace a interactivo) 
 
-https://quizzlasombra.h5p.com/content/1292222053827739627
-
-https://quizzlasombra.h5p.com/content/1292222060210961317
-
-https://quizzlasombra.h5p.com/content/1292222057851722047
-
 https://quizzlasombra.h5p.com/content/1292222050010450407
 
 - Banner/Teaser:  (enlace) 
