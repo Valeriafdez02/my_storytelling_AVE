@@ -24,29 +24,39 @@ Tipo/Género:
 
 
 ## Resumen
-
+Dos aventureros luchan con una nueva especie de calamar al tratar de llegar a los restos del Titanic.
 
 ### Personaje
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Sally
 
 
 ### Historia
+Después de asistir a una manifestación sobre las compras compulsivas, Sally conoce a Harry, aficionado al buceo y deciden hacer viajes continuos.
+Deciden viajar para visitar los restos del Titanic, pero durante la expedición descubren una nueva especie de calamar.
+Se enfrentan con Hank bajo el océano.
 
 
 ### Contexto
 
 
 ### Conflicto 
-
+Vive en un sistema capitalista que la consume. Es activista porque quiere luchar contra esa insatisfacción aunque aún no es suficiente.
 
 
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
 
+https://quizzlasombra.h5p.com/content/1292222053827739627
+
+https://quizzlasombra.h5p.com/content/1292222060210961317
+
+https://quizzlasombra.h5p.com/content/1292222057851722047
+
+https://quizzlasombra.h5p.com/content/1292222050010450407
 
 - Banner/Teaser:  (enlace) 
 
