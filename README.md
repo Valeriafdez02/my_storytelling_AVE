@@ -49,8 +49,7 @@ Vive en un sistema capitalista que la consume. Es activista porque quiere luchar
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo)
-
-https://acortar.link/yrukB6
+[EL CUARTO DE SALLY](https://quizzlasombra.h5p.com/content/1292222050010450407) 
 
 - Banner/Teaser:  (enlace) 
 
