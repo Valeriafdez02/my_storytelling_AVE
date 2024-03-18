@@ -28,7 +28,7 @@ Dos aventureros luchan con una nueva especie de calamar al tratar de llegar a lo
 
 ### Personaje
 
-![](img-nobody.png)
+![SALLY](Sally.png)
 
 Nombre: Sally
 
