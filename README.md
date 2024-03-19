@@ -48,8 +48,12 @@ Vive en un sistema capitalista que la consume. Es activista porque quiere luchar
 ### Productos
 
 - Personajes: (img personaje y enlace a interactivo)
+  </h>
   Sally( Personaje principal)
+  </h>
   Harry (Personaje secundario)
+  </h>
+  
   Hank (Personaje terciario)
 [EL CUARTO DE SALLY](https://quizzlasombra.h5p.com/content/1292222050010450407) 
 
