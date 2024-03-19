@@ -34,13 +34,12 @@ Nombre: Sally
 
 
 ### Historia
-Después de asistir a una manifestación sobre las compras compulsivas, Sally conoce a Harry, aficionado al buceo y deciden hacer viajes continuos.
-Deciden viajar para visitar los restos del Titanic, pero durante la expedición descubren una nueva especie de calamar.
-Se enfrentan con Hank bajo el océano.
+Sally es una estudiante ejemplar, estudiaba biología marina en la universidad de Western Kentucky University. Era una gran activista y amante del mar y sus especies, por lo que luchaba mucho por ayudar al medio ambiente y asistía a múltiples protestas. Después de asistir a una manifestación sobre las compras compulsivas, Sally conoce a Harry. 
+Harry estaba trabajando como investigador marino, le apasiona bucear y descubrir todo sobre el océano. Tras conectar profundamente esa tarde de enero, empiezan a conocerse y a hacer múltiples viajes juntos. Es en Julio cuando deciden viajar a Canadá para visitar los restos del Titanic, donde encontrarán a Hank, el que se sentirá atacado al ver a humanos en su lugar favorito
 
 
 ### Contexto
-
+Nos encontramos en Kentucky año 2022 donde el capitalismo sobrepasa los limites y las técnologóias son imprescindibles. 
 
 ### Conflicto 
 Vive en un sistema capitalista que la consume. Es activista porque quiere luchar contra esa insatisfacción aunque aún no es suficiente.
@@ -48,7 +47,10 @@ Vive en un sistema capitalista que la consume. Es activista porque quiere luchar
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo)
+- Personajes: (img personaje y enlace a interactivo)
+  Sally( Personaje principal)
+  Harry (Personaje secundario)
+  Hank (Personaje terciario)
 [EL CUARTO DE SALLY](https://quizzlasombra.h5p.com/content/1292222050010450407) 
 
 - Banner/Teaser:  (enlace) 
