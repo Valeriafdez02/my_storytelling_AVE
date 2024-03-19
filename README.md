@@ -32,11 +32,11 @@ Dos aventureros luchan con una nueva especie de calamar al tratar de llegar a lo
 
 Nombre: Sally
 
-![Harry](Harry)
+![Harry](Harry.png)
 
 Nombre: Harry
 
-![HANK](Hank)
+![HANK](Hank.png)
 
 Nombre: Hank
 
