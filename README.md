@@ -37,10 +37,9 @@ Hank
 
 Harry
 ![HARRY](Harry.jpg)
-![](img-nobody.png)
 
-Nombre: 
-Sally 
+
+
 
 ### Historia
  Sally es una estudiante ejemplar, estudiaba biología marina en la universidad de Western Kentucky University. Era una gran activista y amante del mar y sus especies, por lo que luchaba mucho por ayudar al medio ambiente y asistía a múltiples protestas. Después de asistir a una manifestación sobre las compras compulsivas, Sally conoce a Harry. 
