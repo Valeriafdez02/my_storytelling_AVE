@@ -46,8 +46,33 @@ Nos encontramos en Kentucky año 2022 donde el capitalismo sobrepasa los limites
   El conflicto de Sally parte de su lucha con Hank, al que se suma la presencila de Harry, el cual tendrá que enfrentarse a este también. Temiendo Sally por su vida y la de Harry. 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
-
+- Personajes: (img personaje y enlace a interactivo)
+  </br>
+  Sally( Personaje principal)
+  </br>
+  Harry (Personaje secundario)
+  </br> 
+  Hank (Personaje terciario)
+ </br>
+- Interactivo:
+- QUIZZ
+  </br>
+https://h5p.org/node/1479682
+  </br>
+ </br>
+-  LUGARES DE LA HISTORIA
+ </br>
+1. EL CUARTO DE SALLY
+https://quizzlasombra.h5p.com/content/1292222050010450407
+  </br>
+2. EL LABORATORIO
+https://quizzlasombra.h5p.com/content/1292222057851722047
+  </br>
+3. EL FONDO MARINO
+https://quizzlasombra.h5p.com/content/1292222060210961317
+  </br>
+4. LAS PROTESTAS
+https://quizzlasombra.h5p.com/content/1292222053827739627
 
 - Banner/Teaser:  (enlace) 
 
