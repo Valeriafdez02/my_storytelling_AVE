@@ -60,16 +60,20 @@ El conflicto de Sally parte de su lucha con Hank, al que se suma la presencila d
   Hank (Personaje terciario)
  </br>
 - Interactivo:
+- QUIZZ
   </br>
-- https://h5p.org/node/1479682
+https://h5p.org/node/1479682
   </br>
-- https://quizzlasombra.h5p.com/content/1292222050010450407
+ </br>
+-  EL CUARTO DE SALLY
+ </br>
+1.  https://quizzlasombra.h5p.com/content/1292222050010450407
   </br>
-- https://quizzlasombra.h5p.com/content/1292222057851722047
+2.  https://quizzlasombra.h5p.com/content/1292222057851722047
   </br>
-- https://quizzlasombra.h5p.com/content/1292222060210961317
+3.  https://quizzlasombra.h5p.com/content/1292222060210961317
   </br>
-- https://quizzlasombra.h5p.com/content/1292222053827739627
+4.  https://quizzlasombra.h5p.com/content/1292222053827739627
 
 
 
