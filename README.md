@@ -28,15 +28,15 @@ Tipo/Género:
 
 ### Personaje
 Sally
-![SALLY](Sally.png)
 
+</br>
 
 Hank
-![HANK](Hank.jpg)
 
 
+</br>
 Harry
-![HARRY](Harry.jpg)
+</br>
 
 
 
