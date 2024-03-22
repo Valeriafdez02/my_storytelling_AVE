@@ -27,7 +27,16 @@ Tipo/Género:
 
 
 ### Personaje
+Sally
+![SALLY](Sally.png)
 
+
+Hank
+![HANK](Hank.jpg)
+
+
+Harry
+![HARRY](Harry.jpg)
 ![](img-nobody.png)
 
 Nombre: 
