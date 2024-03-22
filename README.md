@@ -34,15 +34,16 @@ Nombre:
 Sally 
 
 ### Historia
- 
+ Sally es una estudiante ejemplar, estudiaba biología marina en la universidad de Western Kentucky University. Era una gran activista y amante del mar y sus especies, por lo que luchaba mucho por ayudar al medio ambiente y asistía a múltiples protestas. Después de asistir a una manifestación sobre las compras compulsivas, Sally conoce a Harry. 
+Harry estaba trabajando como investigador marino, le apasiona bucear y descubrir todo sobre el océano. Tras conectar profundamente esa tarde de enero, empiezan a conocerse y a hacer múltiples viajes juntos. Es en Julio cuando deciden viajar a Canadá para visitar los restos del Titanic, donde encontrarán a Hank, el que se sentirá atacado al ver a humanos en su lugar favorito y se enfrentará a ellos.  
+
 
 ### Contexto
-
+Nos encontramos en Kentucky año 2022 donde el capitalismo sobrepasa los limites y las técnologóias son imprescindibles, con un pueblo que se enfrenta a esta situación. 
 
 ### Conflicto 
 
-  Vive en un sistema capitalista que la consume. Es activista porque quiere luchar contra esa insatisfacción aunque aún no es suficiente.
-
+  El conflicto de Sally parte de su lucha con Hank, al que se suma la presencila de Harry, el cual tendrá que enfrentarse a este también. Temiendo Sally por su vida y la de Harry. 
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
